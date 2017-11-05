@@ -1,0 +1,2 @@
+*.o
+#it's comment, docs/*.txt - ignore all txt in docs folder
